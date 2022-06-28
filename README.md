@@ -15,7 +15,8 @@
     - MSA 아키텍처 구성 및 Cloud Platform 프로비저닝
   - 산출물 : ~~기능 목록서, 이벤트스토밍 모델, 헥사고날 아키텍처,~~ MSA 아키텍처 구성도 
   
-   <img width="800" alt="01  MSA Architecture" src="https://user-images.githubusercontent.com/9667747/176066481-7bcd1d7a-6336-404f-9c94-b12c3bfa1954.png">
+**  1. MSA 아키텍처 구성도
+<img width="800" alt="01  MSA Architecture" src="https://user-images.githubusercontent.com/9667747/176066481-7bcd1d7a-6336-404f-9c94-b12c3bfa1954.png">
   
   
   - 배포/운영/모니터링 구현: (2~3일차) 
